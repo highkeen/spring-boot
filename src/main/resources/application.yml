@@ -1,2 +1,7 @@
 server:
   port: 8500
+
+boot:
+  learn:
+    config:
+      init-student-count: 10 
